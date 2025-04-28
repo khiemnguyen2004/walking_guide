@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "917486736099",
+    "project_id": "walking-guide-8050f",
+    "storage_bucket": "walking-guide-8050f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917486736099:android:475e5f24567f4fa4c0ebd6",
+        "android_client_info": {
+          "package_name": "khiem.nhg.walking_guide"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5r9iH4Aw5eTLfQMDiLHAZb4ce5pdiq94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
